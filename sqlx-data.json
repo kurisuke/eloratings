@@ -1,0 +1,13 @@
+{
+  "db": "SQLite",
+  "e61f0ddda21095a95ff2196465b6afb5974a52032557766224623c4d2ff5b22a": {
+    "query": "\nINSERT INTO teams ( team_id, team_name, successor_id )\nVALUES ( ?1, ?2, ?3 )\n",
+    "describe": {
+      "columns": [],
+      "parameters": {
+        "Right": 3
+      },
+      "nullable": []
+    }
+  }
+}
